@@ -6,7 +6,7 @@ This document provides detailed analysis of all 13 ZeroJudge problems solved, in
 
 ---
 
-## 🌐 Graph Algorithms
+## Graph Algorithms
 
 ### d453: 三、最短距離 (Shortest Distance)
 
@@ -37,7 +37,7 @@ Find the shortest path between two points in a grid maze where '0' represents wa
 
 ---
 
-## ⚡ Optimization Problems
+## Optimization Problems
 
 ### j608: 4. 機器出租 (Machine Rental)
 
@@ -146,7 +146,7 @@ Calculate minimum cost to repair fence segments based on neighboring values.
 
 ---
 
-## 🔢 Mathematical Computing
+## Mathematical Computing
 
 ### d442: 10591 - Happy Number
 
@@ -177,7 +177,7 @@ Determine if a number is "happy" (eventually reaches 1) or "unhappy" (enters a c
 
 ---
 
-## 📝 String Processing
+## String Processing
 
 ### g275: 1. 七言對聯 (Couplet Analysis)
 
@@ -234,7 +234,7 @@ Calculate the absolute difference between sums of digits at even and odd positio
 
 ---
 
-## 📊 Array Manipulation
+## Array Manipulation
 
 ### e286: 籃球比賽 (Basketball Game)
 
@@ -317,7 +317,7 @@ Determine which logical operators (AND, OR, XOR) produce the correct output for 
 
 ---
 
-## 📐 Geometry
+## Geometry
 
 ### c294: APCS-2016-1029-1三角形辨別 (Triangle Classification)
 
@@ -348,7 +348,7 @@ Classify triangles as valid/invalid and determine if they are acute, right, or o
 
 ---
 
-## 📈 Learning Progression Analysis
+## Learning Progression Analysis
 
 ### Technical Growth Indicators:
 
