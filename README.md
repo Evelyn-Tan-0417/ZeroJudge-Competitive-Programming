@@ -1,11 +1,11 @@
-# 🏆 Competitive Programming Portfolio - ZeroJudge Platform
+# Competitive Programming Portfolio - ZeroJudge Platform
 
 ![ZeroJudge](https://img.shields.io/badge/Platform-ZeroJudge-blue)
 ![Language](https://img.shields.io/badge/Language-Python-green)
 ![Success Rate](https://img.shields.io/badge/Success%20Rate-100%25-brightgreen)
 ![Problems Solved](https://img.shields.io/badge/Problems%20Solved-13-orange)
 
-## 📊 Achievement Summary
+## Achievement Summary
 
 - **Platform:** [ZeroJudge.tw](https://zerojudge.tw/) - Taiwan's premier programming education platform
 - **Problems Solved:** 13/13 (100% success rate)
@@ -13,11 +13,11 @@
 - **Language:** Python
 - **Problem Sources:** APCS competitions, UVa Online Judge, educational challenges
 
-## 🎯 About ZeroJudge Platform
+## About ZeroJudge Platform
 
 ZeroJudge is Taiwan's largest educational programming platform with over **4 million evaluated submissions**. Unlike competition-focused platforms, ZeroJudge emphasizes learning with detailed Chinese error messages and comprehensive educational support, making it ideal for structured competitive programming education.
 
-## 🔍 Technical Skills Demonstrated
+## Technical Skills Demonstrated
 
 ### Algorithms & Data Structures
 
@@ -35,7 +35,7 @@ ZeroJudge is Taiwan's largest educational programming platform with over **4 mil
 - Mathematical computation and validation
 - Boolean logic and conditional processing
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 📦 ZeroJudge-Competitive-Programming
@@ -65,15 +65,15 @@ ZeroJudge is Taiwan's largest educational programming platform with over **4 mil
     └── screenshots/
 ```
 
-## 🏅 Problem Categories & Solutions
+## Problem Categories & Solutions
 
-### 🌐 Graph Algorithms (1 problem)
+### Graph Algorithms (1 problem)
 
 | Problem ID | Title | Difficulty | Key Concepts |
 |------------|-------|------------|--------------|
 | d453 | 三、最短距離 (Shortest Distance) | ⭐⭐⭐ | BFS, Grid Traversal, Queue Management |
 
-### ⚡ Optimization Problems (4 problems)
+### Optimization Problems (4 problems)
 
 | Problem ID | Title | Difficulty | Key Concepts |
 |------------|-------|------------|--------------|
@@ -82,20 +82,20 @@ ZeroJudge is Taiwan's largest educational programming platform with over **4 mil
 | f605 | 1. 購買力 (Purchasing Power) | ⭐⭐ | Conditional Logic, Statistics |
 | g595 | 1. 修補圍籬 (Fence Repair) | ⭐⭐ | Array Processing, Minimum Cost |
 
-### 🔢 Mathematical Computing (1 problem)
+### Mathematical Computing (1 problem)
 
 | Problem ID | Title | Difficulty | Key Concepts |
 |------------|-------|------------|--------------|
 | d442 | 10591 - Happy Number | ⭐⭐⭐ | Number Theory, Cycle Detection |
 
-### 📝 String Processing (2 problems)
+### String Processing (2 problems)
 
 | Problem ID | Title | Difficulty | Key Concepts |
 |------------|-------|------------|--------------|
 | g275 | 1. 七言對聯 (Couplet Analysis) | ⭐⭐⭐ | Pattern Matching, String Analysis |
 | c290 | APCS 2017-0304-1秘密差 (Secret Difference) | ⭐⭐ | String Manipulation, Mathematical Logic |
 
-### 📊 Array Manipulation (3 problems)
+### Array Manipulation (3 problems)
 
 | Problem ID | Title | Difficulty | Key Concepts |
 |------------|-------|------------|--------------|
@@ -103,13 +103,13 @@ ZeroJudge is Taiwan's largest educational programming platform with over **4 mil
 | f579 | 1. 購物車 (Shopping Cart) | ⭐⭐ | State Tracking, Counting |
 | c461 | APCS 邏輯運算子 (Logic Operators) | ⭐⭐ | Boolean Algebra, Logic Gates |
 
-### 📐 Geometry (1 problem)
+### Geometry (1 problem)
 
 | Problem ID | Title | Difficulty | Key Concepts |
 |------------|-------|------------|--------------|
 | c294 | APCS-2016-1029-1三角形辨別 (Triangle Classification) | ⭐⭐ | Geometric Analysis, Mathematical Classification |
 
-## 📈 Learning Progression Timeline
+## Learning Progression Timeline
 
 **Phase 1: Foundation Building (Jul - Oct 2022)**
 
@@ -129,9 +129,9 @@ ZeroJudge is Taiwan's largest educational programming platform with over **4 mil
 - Advanced optimization with binary search and mathematical computing
 - Problems: `d442`, `j608`, `d453`
 
-## 🚀 Highlighted Solutions
+## Highlighted Solutions
 
-### 🌟 Most Complex: d453 - Shortest Path (BFS Implementation)
+### Most Complex: d453 - Shortest Path (BFS Implementation)
 
 ```python
 def shortest_path(grid, start, end):
@@ -157,16 +157,7 @@ def shortest_path(grid, start, end):
     return 0
 ```
 
-### 🌟 Most Optimized: j608 - Machine Rental (Binary Search)
-
-```python
-import bisect
-
-# Greedy algorithm with binary search optimization
-# Sorts by end time and uses bisect for efficient insertion
-```
-
-## 💻 Code Quality Standards
+## Code Quality Standards
 
 All solutions demonstrate:
 
@@ -176,7 +167,7 @@ All solutions demonstrate:
 - **Documentation:** Clear variable naming and logical flow
 - **Competitive Programming Best Practices:** Fast I/O and memory optimization
 
-## 📚 Educational Impact
+## Educational Impact
 
 This portfolio represents **structured learning under tutor guidance**, emphasizing:
 
@@ -185,7 +176,7 @@ This portfolio represents **structured learning under tutor guidance**, emphasiz
 - Deep understanding of fundamental computer science concepts
 - Strong foundation for advanced programming and data structures
 
-## 🔗 Platform Performance
+## Platform Performance
 
 All submissions achieved **"AC" (Accepted)** status with competitive performance metrics:
 
@@ -193,10 +184,9 @@ All submissions achieved **"AC" (Accepted)** status with competitive performance
 - **Memory Usage:** Efficient memory management (3.3MB - 32.1MB)
 - **Success Rate:** 100% first-time acceptance rate
 
-## 📄 Additional Documentation
+## Additional Documentation
 
 - [Problem Summaries](docs/problem-summaries.md) - Detailed analysis of each challenge
-- [Learning Progression](docs/learning-progression.md) - Technical growth timeline
 - [Submission Screenshots](assets/screenshots/) - Platform evidence and achievements
 
 ---
