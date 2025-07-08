@@ -157,16 +157,6 @@ def shortest_path(grid, start, end):
     return 0
 ```
 
-## Code Quality Standards
-
-All solutions demonstrate:
-
-- **Clean Architecture:** Well-structured, readable code
-- **Efficient Algorithms:** Optimal time and space complexity
-- **Edge Case Handling:** Robust input validation and boundary conditions
-- **Documentation:** Clear variable naming and logical flow
-- **Competitive Programming Best Practices:** Fast I/O and memory optimization
-
 ## Educational Impact
 
 This portfolio represents **structured learning under tutor guidance**, emphasizing:
