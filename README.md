@@ -60,7 +60,6 @@ ZeroJudge is Taiwan's largest educational programming platform with over **4 mil
 │       └── c294_triangle_classification.py
 ├── 📂 docs/
 │   ├── problem-summaries.md
-│   └── learning-progression.md
 └── 📂 assets/
     └── screenshots/
 ```
