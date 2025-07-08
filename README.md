@@ -176,7 +176,7 @@ All submissions achieved **"AC" (Accepted)** status with competitive performance
 ## Additional Documentation
 
 - [Problem Summaries](docs/problem_summaries.md) - Detailed analysis of each challenge
-- [Submission Screenshots](assets/zerojudge submission.jpg/) - Platform evidence and achievements
+- [Submission Screenshots](assets/zerojudge-submission.jpg/) - Platform evidence and achievements
 
 ---
 
