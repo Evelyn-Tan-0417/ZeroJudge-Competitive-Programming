@@ -61,7 +61,7 @@ ZeroJudge is Taiwan's largest educational programming platform with over **4 mil
 ├── 📂 docs/
 │   ├── problem-summaries.md
 └── 📂 assets/
-    └── screenshots/
+    └── zerojudge submission.jpg/
 ```
 
 ## Problem Categories & Solutions
